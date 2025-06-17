@@ -4,7 +4,7 @@ A simple, responsive pizza menu built using **React**. This project was created 
 
 ![Fast React Pizza Co. Screenshot](./public/pizzas/screenshot.png)
 
-## 🚀 Features
+## Features
 
 - Built with **React functional components**
 - Dynamic rendering of menu items
@@ -16,7 +16,7 @@ A simple, responsive pizza menu built using **React**. This project was created 
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - [React](https://reactjs.org/) (via `createRoot`)
 - Basic CSS (custom, no frameworks)
@@ -41,7 +41,7 @@ src/
 
 ---
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ```bash
 # Clone the repository
@@ -57,7 +57,7 @@ npm start
 
 ---
 
-## 📝 Future Improvements
+## Future Improvements
 
 - Add functionality to the Order button
 - Introduce routing for item details or checkout
